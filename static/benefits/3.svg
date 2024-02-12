@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="41" y="25" width="24" height="57" rx="6" fill="#F1E678"/>
+    <path d="M35 34H38C42.4183 34 46 37.5817 46 42V46H43C38.5817 46 35 42.4183 35 38V34Z" stroke="#4E8925" stroke-width="2"/>
+    <path d="M35 48H38C42.4183 48 46 51.5817 46 56V60H43C38.5817 60 35 56.4183 35 52V48Z" stroke="#4E8925" stroke-width="2"/>
+    <path d="M35 62H38C42.4183 62 46 65.5817 46 70V74H43C38.5817 74 35 70.4183 35 66V62Z" stroke="#4E8925" stroke-width="2"/>
+    <path d="M57 34H54C49.5817 34 46 37.5817 46 42V46H49C53.4183 46 57 42.4183 57 38V34Z" stroke="#4E8925" stroke-width="2"/>
+    <path d="M57 48H54C49.5817 48 46 51.5817 46 56V60H49C53.4183 60 57 56.4183 57 52V48Z" stroke="#4E8925" stroke-width="2"/>
+    <path d="M57 62H54C49.5817 62 46 65.5817 46 70V74H49C53.4183 74 57 70.4183 57 66V62Z" stroke="#4E8925" stroke-width="2"/>
+    <path d="M46 30V18" stroke="#4E8925" stroke-width="2"/>
+    <path d="M40 30V22" stroke="#4E8925" stroke-width="2"/>
+    <path d="M52 30V22" stroke="#4E8925" stroke-width="2"/>
+</svg>
